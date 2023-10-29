@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class App {
+public class PerbaikanUTS {
     public static void main(String[] args) throws Exception {
         System.out.println(
                 "Bismillahirrahmaanirrahiim, Saya Ramadhani Win Armendal berjanji dan bersungguh-sungguh semaksimal mungkin \nmengerjakan UTS ini dengan usaha sendiri, tanpa sekalipun melihat pekerjaan teman Saya, serta mematuhi \ntata tertib selama ujian. Jika Saya melanggar janji ini, Saya berani menanggung resikonya.");
